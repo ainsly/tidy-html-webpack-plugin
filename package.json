@@ -1,0 +1,45 @@
+{
+  "author": {
+    "name": "ainsly",
+    "email": "i.am@ains.ly",
+    "url": "https://github.com/ainsly"
+  },
+  "bugs": {
+    "url": "https://github.com/ainsly/tidy-html-webpack-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "debug": "^2.6.8"
+  },
+  "deprecated": false,
+  "description": "Enhances html-webpack-plugin functionality by tidying html after processing",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.29.0",
+    "webpack-config": "^7.0.0"
+  },
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "homepage": "https://github.com/ainsly/tidy-html-webpack-plugin",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html-webpack-plugin",
+    "tidy-html-webpack-plugin",
+    "tidy",
+    "html"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "tidy-html-webpack-plugin",
+  "peerDependencies": {
+    "webpack": "1 || ^2.2.0 || ^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainsly/tidy-html-webpack-plugin.git"
+  },
+  "scripts": {},
+  "version": "0.1.0"
+}
