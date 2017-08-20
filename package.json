@@ -15,7 +15,9 @@
   "description": "Enhances html-webpack-plugin functionality by tidying html after processing",
   "devDependencies": {
     "html-webpack-plugin": "^2.29.0",
-    "webpack-config": "^7.0.0"
+    "webpack": "^3.5.5",
+    "webpack-config": "^7.0.0",
+    "webpack-merge": "^4.1.0"
   },
   "files": [
     "index.js",
