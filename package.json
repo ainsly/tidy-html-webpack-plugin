@@ -42,5 +42,5 @@
     "url": "git+https://github.com/ainsly/tidy-html-webpack-plugin.git"
   },
   "scripts": {},
-  "version": "0.1.1"
+  "version": "0.1.2"
 }
